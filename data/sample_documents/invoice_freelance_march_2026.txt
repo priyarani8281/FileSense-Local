@@ -1,0 +1,38 @@
+========================================================================
+INVOICE #INV-2026-0318
+Date: March 18, 2026
+Due Date: March 31, 2026
+Status: PAID
+========================================================================
+
+ISSUED BY:
+Aarav Sharma (Independent Software Consultant)
+Flat 402, Green Meadows Residency, Bangalore, Karnataka 560100
+GST / PAN: ABCDE1234F
+
+BILLED TO:
+Apex Studio Creative Works Pvt. Ltd.
+Attn: Project Accounts Team
+12th Main, Indiranagar, Bangalore 560038
+
+------------------------------------------------------------------------
+DESCRIPTION OF SERVICES                            HOURS   RATE    AMOUNT
+------------------------------------------------------------------------
+1. UI Design Review & Accessibility Audit            5     ₹300    ₹1,500
+   Evaluation of color contrast, keyboard focus,
+   and screen reader semantic markup.
+
+2. Express.js REST API Performance Optimization       4     ₹250    ₹1,000
+   Indexing SQLite queries, implementing WAL mode,
+   and eliminating N+1 query bottlenecks.
+------------------------------------------------------------------------
+SUBTOTAL:                                                          ₹2,500
+TAX / GST (0% Reverse Charge):                                         ₹0
+------------------------------------------------------------------------
+TOTAL AMOUNT DUE / RECEIVED:                                       ₹2,500
+------------------------------------------------------------------------
+
+PAYMENT DETAILS:
+Payment Method: UPI / IMPS Bank Transfer
+Transaction ID: UPI/2026031899482103
+Note: Thank you for your partnership! Payment received in full on March 19, 2026.

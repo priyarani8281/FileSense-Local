@@ -1,0 +1,33 @@
+========================================================================
+ALEX CHEN — RESUME (INTERNSHIP APPLICATION)
+Email: alex.chen.dev@example.com | GitHub: github.com/alexchen-dev
+Location: Bangalore, India | Portfolio: https://alexchen.codes
+========================================================================
+
+OBJECTIVE
+Motivated Computer Science undergraduate seeking a Software Engineering Internship for Summer 2026. Passionate about building privacy-first desktop web applications, modern responsive interfaces, and practical local AI solutions.
+
+EDUCATION
+B.Tech in Computer Science & Engineering (2023 - 2027)
+National Institute of Technology | CGPA: 8.92 / 10.0
+Relevant Coursework: Data Structures & Algorithms, Operating Systems, Database Management Systems, Computer Networks, Machine Learning Foundations.
+
+TECHNICAL SKILLS
+• Languages: JavaScript (ESNext), TypeScript, Python, C++, SQL, HTML5, CSS3
+• Frontend: React, Vite, Next.js, Tailwind CSS, Responsive Design, State Management
+• Backend: Node.js, Express.js, SQLite, REST APIs, WebSocket
+• Tools & Systems: Git, Docker, Linux, Ollama, Vector Databases, Postman
+
+PROJECTS
+1. FileSense Local — Privacy-First Document Discovery Tool
+   • Engineered a full-stack local document search engine using React, Express, and SQLite.
+   • Integrated Ollama local embedding models to support semantic natural-language retrieval.
+   • Designed an editorial, calm visual system with responsive layouts and accessible controls.
+
+2. Distributed Task Scheduler
+   • Implemented an asynchronous task queue in Node.js with worker threads and priority queues.
+   • Reduced average job latency by 35% through connection pooling and in-memory caching.
+
+ACHIEVEMENTS & EXTRACURRICULAR
+• 1st Place at University Hackathon 2025 for Local AI Medical Assistant.
+• Active open-source contributor and technical mentor for junior student developers.

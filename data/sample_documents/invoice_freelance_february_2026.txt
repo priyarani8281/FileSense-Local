@@ -1,0 +1,23 @@
+========================================================================
+INVOICE #INV-2026-0210
+Date: February 10, 2026
+Due Date: February 25, 2026
+Status: PAID
+========================================================================
+
+ISSUED BY:
+Aarav Sharma (Independent Software Consultant)
+Bangalore, Karnataka 560100
+
+BILLED TO:
+Apex Studio Creative Works Pvt. Ltd.
+
+------------------------------------------------------------------------
+DESCRIPTION OF SERVICES                            HOURS   RATE    AMOUNT
+------------------------------------------------------------------------
+1. Frontend Performance Profiling & Bundle Audit    10     ₹300    ₹3,000
+2. Node.js WebSocket Server Setup                    4     ₹300    ₹1,200
+------------------------------------------------------------------------
+TOTAL AMOUNT DUE / RECEIVED:                                       ₹4,200
+------------------------------------------------------------------------
+Payment Method: UPI Transfer | Date: February 12, 2026

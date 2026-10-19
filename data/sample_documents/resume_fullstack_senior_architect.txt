@@ -1,0 +1,17 @@
+========================================================================
+PRIYA NAIR — RESUME (SENIOR CLOUD ARCHITECT & STAFF ENGINEER)
+Email: priya.nair@enterprise.com | Location: Mumbai, India
+========================================================================
+
+PROFESSIONAL SUMMARY
+Senior Distributed Systems Architect with 10+ years designing multi-region microservice infrastructures, Kubernetes clusters, and cloud enterprise architectures in Go, Rust, and AWS.
+
+EXPERIENCE
+Staff Infrastructure Engineer — CloudScale Technologies (2021 - Present)
+• Led migration of 140 microservices to Kubernetes, saving $1.2M annually.
+• Designed real-time event streaming pipeline processing 45k events/sec using Apache Kafka.
+
+SKILLS
+• Languages: Go, Rust, Java, Python
+• Cloud & Infra: AWS, Kubernetes, Terraform, gRPC, Kafka
+• Databases: PostgreSQL, CockroachDB, DynamoDB

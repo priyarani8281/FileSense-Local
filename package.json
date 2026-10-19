@@ -1,0 +1,24 @@
+{
+  "name": "fileorganizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently -n \"server,client\" -c \"green,blue\" \"npm run server\" \"npm run client\"",
+    "server": "npm --prefix server run dev",
+    "client": "npm --prefix client run dev",
+    "test": "node server/tests/runAllTests.js",
+    "benchmark": "node server/tests/benchmark.js",
+    "build": "npm --prefix client run build"
+  },
+  "author": "Priya Rani (https://github.com/priyarani8281)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/priyarani8281/FileSense-Local.git"
+  },
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "concurrently": "^10.0.6"
+  }
+}

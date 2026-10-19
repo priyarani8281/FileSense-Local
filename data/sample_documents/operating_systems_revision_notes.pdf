@@ -1,0 +1,32 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 1520 >>
+stream
+BT /F1 11 Tf 50 750 Td 15 TL (OPERATING SYSTEMS REVISION NOTES - EXAM CHEATSHEET) Tj T* (Author: CS Student Revision Series | Semester 5) Tj T* (1. PROCESS MANAGEMENT AND SCHEDULING ALGORITHMS) Tj T* (- FCFS \(First Come First Serve\): Non-preemptive, suffers from convoy effect.) Tj T* (- SJF \(Shortest Job First\): Optimal average waiting time, but requires knowing burst time.) Tj T* (- SRTF \(Shortest Remaining Time First\): Preemptive version of SJF.) Tj T* (- Round Robin \(RR\): Time quantum based, preemptive, fair responsiveness for interactive systems.) Tj T* (2. MEMORY MANAGEMENT AND VIRTUAL MEMORY) Tj T* (- Logical vs Physical Address Space: MMU translates virtual page numbers to physical frames.) Tj T* (- TLB \(Translation Lookaside Buffer\): Associative hardware cache for fast virtual-to-physical address mapping.) Tj T* (- Demand Paging: Pages are loaded into RAM only when accessed. Page fault triggers OS interrupt.) Tj T* (- Page Replacement Policies: LRU \(Least Recently Used\), FIFO, Optimal \(Beladys anomaly proof\).) Tj T* (3. SYNCHRONIZATION AND DEADLOCK PREVENTION) Tj T* (- Critical Section Problem: Requirements are Mutual Exclusion, Progress, and Bounded Waiting.) Tj T* (- Semaphores: Counting and binary mutex semaphores using atomic wait\(\) and signal\(\) primitives.) Tj T* (- Deadlock Coffman Conditions: Mutual Exclusion, Hold and Wait, No Preemption, Circular Wait.) Tj T* (- Prevention: Break circular wait by imposing strict global ordering on resource allocation.) Tj T* ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f
+0000000009 00000 n
+0000000058 00000 n
+0000000115 00000 n
+0000000244 00000 n
+0000000300 00000 n
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+380
+%%EOF
